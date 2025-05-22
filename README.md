@@ -30,7 +30,7 @@
 | Project             | Description                                                   | Tech                      | Status             |
 | :------------------ | :------------------------------------------------------------ | :------------------------ | :----------------- |
 | 🔧 **Task Tracker App** | Simple task manager w/ CRUD, categories, real-time Appwrite DB | React, Tailwind, Appwrite | Done ➡️ https://task-tracker-rctrollex.vercel.app/ |
-| 🔧 **Notes Keeper App** | Simple note keeper w/ CRUD, categories, real-time Appwrite DB with light and dark mode | React, Tailwind, Appwrite | Done ➡️ https://notes-keeper-app-rctrollex.vercel.app/ |
+| 📝 **Notes Keeper App** | Simple note keeper w/ CRUD, categories, real-time Appwrite DB with light and dark mode | React, Tailwind, Appwrite | Done ➡️ https://notes-keeper-app-rctrollex.vercel.app/ |
 | ☁️ **Weather Dashboard** | Live weather + forecast with OpenWeather API                  | React, Tailwind, API      | To come soon (May) |
 | 💰 **Finance Tracker** | Income/expense management + charts                          | React, Tailwind, Chart.js, Appwrite | To come soon (May) |
 | 🧑‍💼 **Freelancer Platform** | Full-stack platform for showcasing portfolios               | React, Tailwind, Appwrite | To come soon (May) |
